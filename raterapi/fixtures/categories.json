@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Strategy"
+    },
+    {
+        "id": 2,
+        "name": "Dice"
+    },
+    {
+        "id": 3,
+        "name": "Card"
+    },
+    {
+        "id": 4,
+        "name": "Miniature"
+    },
+    {
+        "id": 5,
+        "name": "Deck building"
+    },
+    {
+        "id": 6,
+        "name": "Role playing"
+    },
+    {
+        "id": 7,
+        "name": "Sports"
+    },
+    {
+        "id": 8,
+        "name": "Adventure"
+    },
+    {
+        "id": 9,
+        "name": "Cooperative"
+    },
+    {
+        "id": 10,
+        "name": "Battle"
+    }
+]

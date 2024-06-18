@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "gameId": 1,
+        "userId": 1,
+        "reviewContent": "I had this game in my library for quite some time before I decided to give it a go... and I can only say that after my first day playing this game I haven't been able to put it down!! What a masterpiece of a game!! The characters are awesome, the world is so vast and so alive! The story is pretty good, and the DLCs are perhaps the best DLCs in the history of video games in terms of how complete they are!"
+    },
+    {
+        "id": 2,
+        "gameId": 2,
+        "userId": 1,
+        "reviewContent": "Civilization VI is a fantastic strategy game. The depth of the game mechanics and the variety of civilizations to play make every game unique. The expansions add even more content and replayability. Highly recommended for strategy fans."
+    },
+    {
+        "id": 3,
+        "gameId": 3,
+        "userId": 1,
+        "reviewContent": "Magic: The Gathering is a classic card game that has stood the test of time. The strategic depth and variety of cards make it endlessly replayable. Whether you're playing casually or competitively, there's always something new to discover."
+    },
+    {
+        "id": 4,
+        "gameId": 4,
+        "userId": 1,
+        "reviewContent": "Warhammer 40,000 is an incredible miniature wargame with a rich lore and endless customization options. Building and painting your army is just as fun as playing the game itself. The rules can be complex, but the community is always there to help."
+    },
+    {
+        "id": 5,
+        "gameId": 5,
+        "userId": 1,
+        "reviewContent": "Gloomhaven is the ultimate cooperative board game. The campaign-driven gameplay and deep strategy make it an unforgettable experience. The sheer amount of content and the quality of the components are outstanding."
+    },
+    {
+        "id": 6,
+        "gameId": 6,
+        "userId": 1,
+        "reviewContent": "Pandemic is a great cooperative game where players must work together to stop global outbreaks. It's challenging but very rewarding when you manage to win. The different roles and scenarios keep the game fresh and exciting."
+    },
+    {
+        "id": 7,
+        "gameId": 7,
+        "userId": 1,
+        "reviewContent": "Settlers of Catan is a timeless strategy game that is easy to learn but difficult to master. Trading resources and building settlements is always engaging, and every game feels different due to the random board setup."
+    },
+    {
+        "id": 8,
+        "gameId": 8,
+        "userId": 1,
+        "reviewContent": "Dungeons & Dragons is the quintessential role-playing game. The freedom to create your own character and story is unmatched. Whether you're a player or a dungeon master, the experience is always magical and memorable."
+    },
+    {
+        "id": 9,
+        "gameId": 9,
+        "userId": 1,
+        "reviewContent": "Ticket to Ride is a fun and accessible board game that everyone can enjoy. The simplicity of the rules combined with the strategic depth makes it a favorite in my game group. Building railway routes across the map is always satisfying."
+    },
+    {
+        "id": 10,
+        "gameId": 10,
+        "userId": 1,
+        "reviewContent": "Dominion is a brilliant deck-building game. The variety of cards and strategies ensures that no two games are alike. It's easy to learn but has enough depth to keep you coming back for more. A must-have for any board game collection."
+    },
+    {
+        "id": 11,
+        "gameId": 11,
+        "userId": 1,
+        "reviewContent": "Chess is a timeless classic. The strategic depth and endless possibilities make it a game that you can play for a lifetime. Whether you're a beginner or a grandmaster, chess always offers a challenging and rewarding experience."
+    },
+    {
+        "id": 12,
+        "gameId": 12,
+        "userId": 1,
+        "reviewContent": "Clue is a fantastic detective-themed board game. Solving the mystery of who committed the murder is always fun and engaging. The game's simplicity and replayability make it a great choice for family game nights."
+    },
+    {
+        "id": 13,
+        "gameId": 13,
+        "userId": 1,
+        "reviewContent": "Madden NFL is the go-to game for American football fans. The realistic gameplay and extensive features make it a great sports simulation. Whether you're playing solo or with friends, Madden delivers an authentic football experience."
+    },
+    {
+        "id": 14,
+        "gameId": 14,
+        "userId": 1,
+        "reviewContent": "League of Legends is a highly competitive and addictive MOBA game. The diverse champions and constant updates keep the game fresh and exciting. The community can be intense, but the thrill of victory makes it all worth it."
+    },
+    {
+        "id": 15,
+        "gameId": 15,
+        "userId": 1,
+        "reviewContent": "Carcassonne is a delightful tile-placement game. Building cities, roads, and fields is both strategic and relaxing. The game is easy to learn and offers plenty of replayability due to the random tile draws."
+    },
+    {
+        "id": 16,
+        "gameId": 16,
+        "userId": 1,
+        "reviewContent": "Hearthstone is a fantastic digital card game. The strategic depth and variety of decks make every match exciting. The frequent updates and new expansions keep the game fresh and engaging. Perfect for quick gaming sessions."
+    },
+    {
+        "id": 17,
+        "gameId": 17,
+        "userId": 1,
+        "reviewContent": "Blood Rage is an epic Viking-themed board game. The strategic battles and beautiful miniatures make it a standout game. The different clan abilities and strategies ensure that every game is unique and exciting."
+    },
+    {
+        "id": 18,
+        "gameId": 18,
+        "userId": 1,
+        "reviewContent": "Skyrim is a legendary RPG that has set the standard for open-world games. The freedom to explore and the depth of the world are unparalleled. The modding community adds even more content and replayability. An absolute must-play for any gamer."
+    }
+]

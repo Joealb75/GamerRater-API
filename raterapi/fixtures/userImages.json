@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Witcher_3_cover_art.jpg/220px-Witcher_3_cover_art.jpg",
+        "userId": 1,
+        "gameId": 1
+    },
+    {
+        "id": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg",
+        "userId": 1,
+        "gameId": 2
+    },
+    {
+        "id": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg",
+        "userId": 1,
+        "gameId": 3
+    },
+    {
+        "id": 4,
+        "image": "https://store.frontlinegaming.org/cdn/shop/collections/https___trade.games-workshop.com_assets_2023_07_15-07_Trade_Header_-_Librarian_in_Warded_Terminator_Armour_1.jpg?v=1692370043",
+        "userId": 1,
+        "gameId": 4
+    },
+    {
+        "id": 5,
+        "image": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
+        "userId": 1,
+        "gameId": 5
+    },
+    {
+        "id": 6,
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Pandemic_game.jpg",
+        "userId": 1,
+        "gameId": 6
+    },
+    {
+        "id": 7,
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
+        "userId": 1,
+        "gameId": 7
+    },
+    {
+        "id": 8,
+        "image": "https://m.media-amazon.com/images/M/MV5BOWM0MjNkMjEtY2IyNi00ODdmLTk0ODctNjY3YTQzN2Y3N2ZiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "userId": 1,
+        "gameId": 8
+    },
+    {
+        "id": 9,
+        "image": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__itemrep/img/iiTIuTtuneM3tbDCjALecsgyizA=/fit-in/246x300/filters:strip_icc()/pic38668.jpg",
+        "userId": 1,
+        "gameId": 9
+    },
+    {
+        "id": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Dominion_game.jpg",
+        "userId": 1,
+        "gameId": 10
+    },
+    {
+        "id": 11,
+        "image": "https://images.chesscomfiles.com/uploads/v1/blog/291978.333e4ddb.5000x5000o.d095f7d8a591.png",
+        "userId": 1,
+        "gameId": 11
+    },
+    {
+        "id": 12,
+        "image": "https://i5.walmartimages.com/seo/Clue-Classic-Mystery-Board-Game-with-Activity-Sheet-for-Kids-and-Family-Ages-8-and-Up-2-6-Players-Only-At-Walmart_c146a32b-d94b-4b07-8767-63f7449b2880.d8d93645e52f94628b335bfb7294fd10.jpeg",
+        "userId": 1,
+        "gameId": 12
+    },
+    {
+        "id": 13,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/Madden_NFL_24_Cover.jpeg",
+        "userId": 1,
+        "gameId": 13
+    },
+    {
+        "id": 14,
+        "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S2_1200x1600-905a96cea329205358868f5871393042",
+        "userId": 1,
+        "gameId": 14
+    },
+    {
+        "id": 15,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Carcassonne-game.jpg/220px-Carcassonne-game.jpg",
+        "userId": 1,
+        "gameId": 15
+    },
+    {
+        "id": 16,
+        "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltc965041283bac56c/blt82bb2ee72a2b0baf/651ee3b3e4a8af6535bd6de3/stepintavernthumbnail.PNG",
+        "userId": 1,
+        "gameId": 16
+    },
+    {
+        "id": 17,
+        "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__itemrep/img/ZSJhCapvtPoiIQZ1XdfO-qgUuFY=/fit-in/246x300/filters:strip_icc()/pic2439223.jpg",
+        "userId": 1,
+        "gameId": 17
+    },
+    {
+        "id": 18,
+        "image": "https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg",
+        "userId": 1,
+        "gameId": 18
+    }
+    
+]

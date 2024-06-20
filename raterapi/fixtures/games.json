@@ -1,236 +1,308 @@
 [
     {
-        "id": 1,
-        "title": "The Witcher 3: Wild Hunt",
-        "description": "An open-world RPG where players assume the role of Geralt of Rivia, a monster hunter.",
-        "designer": "CD Projekt Red",
-        "yearReleased": 2015,
-        "numberOfPlayers": 4000000,
-        "timeToPlay": "150 Hours",
-        "ageRating": "18+",
-        "averageRating": "4.9 stars",
-        "categoryId": 8,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "title": "The Witcher 3: Wild Hunt",
+            "description": "An open-world RPG where players assume the role of Geralt of Rivia, a monster hunter.",
+            "designer": "CD Projekt Red",
+            "yearReleased": 2015,
+            "numberOfPlayers": 4000000,
+            "timeToPlay": "150 Hours",
+            "ageRating": "18+",
+            "averageRating": "4.9 stars",
+            "category": [8]
+            
+        }
     },
     {
-        "id": 2,
-        "title": "Civilization VI",
-        "description": "A turn-based strategy game where players build and expand their own civilizations.",
-        "designer": "Firaxis Games",
-        "yearReleased": 2016,
-        "numberOfPlayers": 2000000,
-        "timeToPlay": "50 Hours",
-        "ageRating": "10+",
-        "averageRating": "4.5 stars",
-        "categoryId": 1,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "title": "Civilization VI",
+            "description": "A turn-based strategy game where players build and expand their own civilizations.",
+            "designer": "Firaxis Games",
+            "yearReleased": 2016,
+            "numberOfPlayers": 2000000,
+            "timeToPlay": "50 Hours",
+            "ageRating": "10+",
+            "averageRating": "4.5 stars",
+            "category": [1]
+            
+        }
     },
     {
-        "id": 3,
-        "title": "Magic: The Gathering",
-        "description": "A trading card game where players use decks of cards representing magical spells and creatures.",
-        "designer": "Richard Garfield",
-        "yearReleased": 1993,
-        "numberOfPlayers": 3500000,
-        "timeToPlay": "30 Minutes",
-        "ageRating": "13+",
-        "averageRating": "4.7 stars",
-        "categoryId": 3,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 3,
+        "fields": {
+            "user": 1,
+            "title": "Magic: The Gathering",
+            "description": "A trading card game where players use decks of cards representing magical spells and creatures.",
+            "designer": "Richard Garfield",
+            "yearReleased": 1993,
+            "numberOfPlayers": 3500000,
+            "timeToPlay": "30 Minutes",
+            "ageRating": "13+",
+            "averageRating": "4.7 stars",
+            "category": [3]
+            
+        }
     },
     {
-        "id": 4,
-        "title": "Warhammer 40,000",
-        "description": "A miniature wargame set in a dystopian science-fantasy universe.",
-        "designer": "Games Workshop",
-        "yearReleased": 1987,
-        "numberOfPlayers": 1000000,
-        "timeToPlay": "3 Hours",
-        "ageRating": "14+",
-        "averageRating": "4.6 stars",
-        "categoryId": 4,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 4,
+        "fields": {
+            "user": 1,
+            "title": "Warhammer 40,000",
+            "description": "A miniature wargame set in a dystopian science-fantasy universe.",
+            "designer": "Games Workshop",
+            "yearReleased": 1987,
+            "numberOfPlayers": 1000000,
+            "timeToPlay": "3 Hours",
+            "ageRating": "14+",
+            "averageRating": "4.6 stars",
+            "category": [4]
+            
+        }
     },
     {
-        "id": 5,
-        "title": "Gloomhaven",
-        "description": "A cooperative, campaign-driven dungeon crawler board game.",
-        "designer": "Isaac Childres",
-        "yearReleased": 2017,
-        "numberOfPlayers": 1500000,
-        "timeToPlay": "90-150 Minutes",
-        "ageRating": "14+",
-        "averageRating": "4.9 stars",
-        "categoryId": 9,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 5,
+        "fields": {
+            "user": 1,
+            "title": "Gloomhaven",
+            "description": "A cooperative, campaign-driven dungeon crawler board game.",
+            "designer": "Isaac Childres",
+            "yearReleased": 2017,
+            "numberOfPlayers": 1500000,
+            "timeToPlay": "90-150 Minutes",
+            "ageRating": "14+",
+            "averageRating": "4.9 stars",
+            "category": [9]
+            
+        }
     },
     {
-        "id": 6,
-        "title": "Pandemic",
-        "description": "A cooperative board game where players work together to stop global outbreaks.",
-        "designer": "Matt Leacock",
-        "yearReleased": 2008,
-        "numberOfPlayers": 2000000,
-        "timeToPlay": "45 Minutes",
-        "ageRating": "8+",
-        "averageRating": "4.6 stars",
-        "categoryId": 9,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 6,
+        "fields": {
+            "user": 1,
+            "title": "Pandemic",
+            "description": "A cooperative board game where players work together to stop global outbreaks.",
+            "designer": "Matt Leacock",
+            "yearReleased": 2008,
+            "numberOfPlayers": 2000000,
+            "timeToPlay": "45 Minutes",
+            "ageRating": "8+",
+            "averageRating": "4.6 stars",
+            "category": [9]
+            
+        }
     },
     {
-        "id": 7,
-        "title": "Settlers of Catan",
-        "description": "A strategy board game where players collect resources and build settlements.",
-        "designer": "Klaus Teuber",
-        "yearReleased": 1995,
-        "numberOfPlayers": 3000000,
-        "timeToPlay": "60-120 Minutes",
-        "ageRating": "10+",
-        "averageRating": "4.5 stars",
-        "categoryId": 1,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 7,
+        "fields": {
+            "user": 1,
+            "title": "Settlers of Catan",
+            "description": "A strategy board game where players collect resources and build settlements.",
+            "designer": "Klaus Teuber",
+            "yearReleased": 1995,
+            "numberOfPlayers": 3000000,
+            "timeToPlay": "60-120 Minutes",
+            "ageRating": "10+",
+            "averageRating": "4.5 stars",
+            "category": [1]
+            
+        }
     },
     {
-        "id": 8,
-        "title": "Dungeons & Dragons",
-        "description": "A fantasy tabletop role-playing game where players create characters and embark on adventures.",
-        "designer": "Gary Gygax, Dave Arneson",
-        "yearReleased": 1974,
-        "numberOfPlayers": 2500000,
-        "timeToPlay": "Varies",
-        "ageRating": "12+",
-        "averageRating": "4.8 stars",
-        "categoryId": 6,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 8,
+        "fields": {
+            "user": 1,
+            "title": "Dungeons & Dragons",
+            "description": "A fantasy tabletop role-playing game where players create characters and embark on adventures.",
+            "designer": "Gary Gygax, Dave Arneson",
+            "yearReleased": 1974,
+            "numberOfPlayers": 2500000,
+            "timeToPlay": "Varies",
+            "ageRating": "12+",
+            "averageRating": "4.8 stars",
+            "category": [6]
+            
+        }
     },
     {
-        "id": 9,
-        "title": "Ticket to Ride",
-        "description": "A railway-themed board game where players collect cards to claim railway routes.",
-        "designer": "Alan R. Moon",
-        "yearReleased": 2004,
-        "numberOfPlayers": 1500000,
-        "timeToPlay": "30-60 Minutes",
-        "ageRating": "8+",
-        "averageRating": "4.7 stars",
-        "categoryId": 1,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 9,
+        "fields": {
+            "user": 1,
+            "title": "Ticket to Ride",
+            "description": "A railway-themed board game where players collect cards to claim railway routes.",
+            "designer": "Alan R. Moon",
+            "yearReleased": 2004,
+            "numberOfPlayers": 1500000,
+            "timeToPlay": "30-60 Minutes",
+            "ageRating": "8+",
+            "averageRating": "4.7 stars",
+            "category": [1]
+            
+        }
     },
     {
-        "id": 10,
-        "title": "Dominion",
-        "description": "A deck-building game where players construct their own decks from a shared pool of cards.",
-        "designer": "Donald X. Vaccarino",
-        "yearReleased": 2008,
-        "numberOfPlayers": 1200000,
-        "timeToPlay": "30 Minutes",
-        "ageRating": "8+",
-        "averageRating": "4.6 stars",
-        "categoryId": 5,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 10,
+        "fields": {
+            "user": 1,
+            "title": "Dominion",
+            "description": "A deck-building game where players construct their own decks from a shared pool of cards.",
+            "designer": "Donald X. Vaccarino",
+            "yearReleased": 2008,
+            "numberOfPlayers": 1200000,
+            "timeToPlay": "30 Minutes",
+            "ageRating": "8+",
+            "averageRating": "4.6 stars",
+            "category": [5]
+            
+        }
     },
     {
-        "id": 11,
-        "title": "Chess",
-        "description": "A classic two-player strategy game with an emphasis on planning and tactics.",
-        "designer": "Unknown",
-        "yearReleased": "6th century",
-        "numberOfPlayers": 10000000,
-        "timeToPlay": "Varies",
-        "ageRating": "6+",
-        "averageRating": "4.9 stars",
-        "categoryId": 1,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 11,
+        "fields": {
+            "user": 1,
+            "title": "Chess",
+            "description": "A classic two-player strategy game with an emphasis on planning and tactics.",
+            "designer": "Unknown",
+            "yearReleased": "6th century",
+            "numberOfPlayers": 10000000,
+            "timeToPlay": "Varies",
+            "ageRating": "6+",
+            "averageRating": "4.9 stars",
+            "category": [1]
+            
+        }
     },
     {
-        "id": 12,
-        "title": "Clue",
-        "description": "A detective-themed board game where players must solve a murder mystery.",
-        "designer": "Anthony E. Pratt",
-        "yearReleased": 1949,
-        "numberOfPlayers": 5000000,
-        "timeToPlay": "45 Minutes",
-        "ageRating": "8+",
-        "averageRating": "4.5 stars",
-        "categoryId": 1,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 12,
+        "fields": {
+            "user": 1,
+            "title": "Clue",
+            "description": "A detective-themed board game where players must solve a murder mystery.",
+            "designer": "Anthony E. Pratt",
+            "yearReleased": 1949,
+            "numberOfPlayers": 5000000,
+            "timeToPlay": "45 Minutes",
+            "ageRating": "8+",
+            "averageRating": "4.5 stars",
+            "category": [1]
+            
+        }
     },
     {
-        "id": 13,
-        "title": "Madden NFL",
-        "description": "A sports video game series based on American football.",
-        "designer": "EA Tiburon",
-        "yearReleased": 1988,
-        "numberOfPlayers": 3000000,
-        "timeToPlay": "Varies",
-        "ageRating": "6+",
-        "averageRating": "4.4 stars",
-        "categoryId": 7,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 13,
+        "fields": {
+            "user": 1,
+            "title": "Madden NFL",
+            "description": "A sports video game series based on American football.",
+            "designer": "EA Tiburon",
+            "yearReleased": 1988,
+            "numberOfPlayers": 3000000,
+            "timeToPlay": "Varies",
+            "ageRating": "6+",
+            "averageRating": "4.4 stars",
+            "category": [7]
+            
+        }
     },
     {
-        "id": 14,
-        "title": "League of Legends",
-        "description": "A multiplayer online battle arena (MOBA) game where players control champions with unique abilities.",
-        "designer": "Riot Games",
-        "yearReleased": 2009,
-        "numberOfPlayers": 115000000,
-        "timeToPlay": "30-60 Minutes",
-        "ageRating": "13+",
-        "averageRating": "4.6 stars",
-        "categoryId": 10,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 14,
+        "fields": {
+            "user": 1,
+            "title": "League of Legends",
+            "description": "A multiplayer online battle arena (MOBA) game where players control champions with unique abilities.",
+            "designer": "Riot Games",
+            "yearReleased": 2009,
+            "numberOfPlayers": 115000000,
+            "timeToPlay": "30-60 Minutes",
+            "ageRating": "13+",
+            "averageRating": "4.6 stars",
+            "category": [1]
+            
+        }
     },
     {
-        "id": 15,
-        "title": "Carcassonne",
-        "description": "A tile-placement game where players create a medieval landscape with cities, roads, and fields.",
-        "designer": "Klaus-Jürgen Wrede",
-        "yearReleased": 2000,
-        "numberOfPlayers": 1000000,
-        "timeToPlay": "35 Minutes",
-        "ageRating": "8+",
-        "averageRating": "4.6 stars",
-        "categoryId": 1,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 15,
+        "fields": {
+            "user": 1,
+            "title": "Carcassonne",
+            "description": "A tile-placement game where players create a medieval landscape with cities, roads, and fields.",
+            "designer": "Klaus-Jürgen Wrede",
+            "yearReleased": 2000,
+            "numberOfPlayers": 1000000,
+            "timeToPlay": "35 Minutes",
+            "ageRating": "8+",
+            "averageRating": "4.6 stars",
+            "category": [1]
+            
+        }
     },
     {
-        "id": 16,
-        "title": "Hearthstone",
-        "description": "A digital collectible card game set in the Warcraft universe.",
-        "designer": "Blizzard Entertainment",
-        "yearReleased": 2014,
-        "numberOfPlayers": 70000000,
-        "timeToPlay": "10-15 Minutes",
-        "ageRating": "7+",
-        "averageRating": "4.5 stars",
-        "categoryId": 3,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 16,
+        "fields": {
+            "user": 1,
+            "title": "Hearthstone",
+            "description": "A digital collectible card game set in the Warcraft universe.",
+            "designer": "Blizzard Entertainment",
+            "yearReleased": 2014,
+            "numberOfPlayers": 70000000,
+            "timeToPlay": "10-15 Minutes",
+            "ageRating": "7+",
+            "averageRating": "4.5 stars",
+            "category": [3]
+            
+        }
     },
     {
-        "id": 17,
-        "title": "Blood Rage",
-        "description": "A Viking-themed board game where players control clans and engage in battles.",
-        "designer": "Eric M. Lang",
-        "yearReleased": 2015,
-        "numberOfPlayers": 800000,
-        "timeToPlay": "60-90 Minutes",
-        "ageRating": "14+",
-        "averageRating": "4.8 stars",
-        "categoryId": 4,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 17,
+        "fields": {
+            "user": 1,
+            "title": "Blood Rage",
+            "description": "A Viking-themed board game where players control clans and engage in battles.",
+            "designer": "Eric M. Lang",
+            "yearReleased": 2015,
+            "numberOfPlayers": 800000,
+            "timeToPlay": "60-90 Minutes",
+            "ageRating": "14+",
+            "averageRating": "4.8 stars",
+            "category": [4]
+            
+        }
     },
     {
-        "id": 18,
-        "title": "Skyrim",
-        "description": "a single-player, open-world, action role-playing game (RPG) that was released in 2011 and has won over 200 Game of the Year awards.",
-        "designer": "Bethesda Game Studios",
-        "yearReleased": 2011,
-        "numberOfPlayers": 6000000,
-        "timeToPlay": "223 Hours",
-        "ageRating": "15+",
-        "averageRating": "4.8 stars",
-        "categoryId": 8,
-        "userId": 1
+        "model": "raterapi.game",
+        "pk": 18,
+        "fields": {
+            "user": 1,
+            "title": "Skyrim",
+            "description": "A single-player, open-world, action role-playing game (RPG) that was released in 2011 and has won over 200 Game of the Year awards.",
+            "designer": "Bethesda Game Studios",
+            "yearReleased": 2011,
+            "numberOfPlayers": 6000000,
+            "timeToPlay": "223 Hours",
+            "ageRating": "15+",
+            "averageRating": "4.8 stars",
+            "category": [8]
+            
+        }
     }
 ]
